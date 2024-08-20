@@ -49,3 +49,8 @@ The financial trajectories of Tesla, Microsoft, and Apple highlight diverse stra
 
 ## Conclusion:
 This financial analysis underscores the importance of continuous strategic evaluation and agile responses to market dynamics. Each company, while showing overall strong performance, faces unique challenges and opportunities that require tailored strategic actions to enhance financial and operational outcomes.
+
+
+## About the data:
+All data used for this analysis has been extracted from U.S. Securities and Exchange Commission's EDGAR 10-K financial documents. Links attached:
+https://www.sec.gov/edgar/browse/?CIK=320193&owner=exclude
