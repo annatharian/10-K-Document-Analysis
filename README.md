@@ -5,15 +5,15 @@ This analysis provides a comprehensive review of key financial metrics for Tesla
 
 ## Analysis by Metric:
 
-Total Revenue: This metric represents the total amount of income generated from the company's business activities before any costs or expenses are subtracted. A positive growth percentage indicates an increase in revenue from the previous year, reflecting business expansion or increased sales efficiency.
+**Total Revenue**: This metric represents the total amount of income generated from the company's business activities before any costs or expenses are subtracted. A positive growth percentage indicates an increase in revenue from the previous year, reflecting business expansion or increased sales efficiency.
 
-Net Income: Represents the total earnings of the company after all expenses have been deducted from total revenue. It's a key indicator of the company's profitability. Changes in net income can result from alterations in revenue, cost management, or both.
+**Net Income**: Represents the total earnings of the company after all expenses have been deducted from total revenue. It's a key indicator of the company's profitability. Changes in net income can result from alterations in revenue, cost management, or both.
 
-Total Assets: This is the sum of all assets owned by the company, reflecting its economic resources. Changes in total assets can indicate new investments, asset acquisitions, or shifts in company strategy.
+**Total Assets**: This is the sum of all assets owned by the company, reflecting its economic resources. Changes in total assets can indicate new investments, asset acquisitions, or shifts in company strategy.
 
-Total Liabilities: Represents all financial obligations. An increase can suggest new debt or higher operational liabilities, while a decrease could indicate debt repayment or better liability management.
+**Total Liabilities**: Represents all financial obligations. An increase can suggest new debt or higher operational liabilities, while a decrease could indicate debt repayment or better liability management.
 
-CF Operating (Cash Flow from Operations): Measures the cash generated from normal business operations, reflecting the company's ability to generate sufficient cash to maintain and grow operations.
+**CF Operating (Cash Flow from Operations)**: Measures the cash generated from normal business operations, reflecting the company's ability to generate sufficient cash to maintain and grow operations.
 
 ## Key Findings:
 
